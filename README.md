@@ -7,3 +7,7 @@ Testing prose.io
 
 
 hello
+
+
+![cake]({{site.baseurl}}/cake.gif)
+
